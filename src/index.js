@@ -9,6 +9,7 @@ import { createStore } from 'redux'
 const initialState = {
   count: 0,
   color: "",
+  textColor: ["black", "red", "green", "blue"],
   box: []
 }
 
